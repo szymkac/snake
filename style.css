@@ -1,0 +1,20 @@
+body{
+    background-color: #f4fff7;
+}
+
+.game-container{
+    margin: 0 auto;
+    padding: 10px;
+    border: solid 6px #024715;
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+    box-shadow: 10px 10px 5px #514f50;
+}
+
+h1{
+    text-align: center;
+    color: #024715;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 2px 2px 5px #514f50;
+}
